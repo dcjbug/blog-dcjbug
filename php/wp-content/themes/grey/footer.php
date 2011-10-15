@@ -33,6 +33,7 @@
                 
                         <h5>Credits</h5>
 						<p class="credits">Powered by <a href="http://wordpress.com">Wordpress</a>, enhanced with <a href="http://jquery.com">jQuery</a>. Icons courtesy of <a href="http://www.komodomedia.com/">Komodo Media</a>.</p>
+                        <h5>License</h5>
                                         <p class="credits"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br />This work by the <a xmlns:cc="http://creativecommons.org/ns#" href="http://blog-dcjbug.rhcloud.com" property="cc:attributionName" rel="cc:attributionURL">DC JBoss Users Group</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-ShareAlike 3.0 United States License</a>.</p>
 					</div>
 					<div class="clear"></div>
