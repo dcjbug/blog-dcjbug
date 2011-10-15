@@ -33,7 +33,6 @@
                 
                         <h5>Credits</h5>
 						<p class="credits">Powered by <a href="http://wordpress.com">Wordpress</a>, enhanced with <a href="http://jquery.com">jQuery</a>. Icons courtesy of <a href="http://www.komodomedia.com/">Komodo Media</a>.</p>
-
 					</div>
 					<div class="clear"></div>
 				</div>
