@@ -33,13 +33,13 @@
                 
                         <h5>Credits</h5>
 						<p class="credits">Powered by <a href="http://wordpress.com">Wordpress</a>, enhanced with <a href="http://jquery.com">jQuery</a>. Icons courtesy of <a href="http://www.komodomedia.com/">Komodo Media</a>.</p>
+                                        <p class="credits"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br />This work by the <a xmlns:cc="http://creativecommons.org/ns#" href="http://blog-dcjbug.rhcloud.com" property="cc:attributionName" rel="cc:attributionURL">DC JBoss Users Group</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-ShareAlike 3.0 United States License</a>.</p>
 					</div>
 					<div class="clear"></div>
 				</div>
 			</section>
 			<section id="powered">
 				<div class="container_12">
-                                        <p class="grid_10"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/us/88x31.png" /></a><br />This work by the <a xmlns:cc="http://creativecommons.org/ns#" href="http://blog-dcjbug.rhcloud.com" property="cc:attributionName" rel="cc:attributionURL">DC JBoss Users Group</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/us/">Creative Commons Attribution-ShareAlike 3.0 United States License</a>.</p>
 					<p class="grid_10">&copy; <?php echo date('Y'); ?>  free wordpress theme Grey | design by <a href="http://www.webexpedition18.com">Nikola Lazarevic</a> | code by <a href="http://simonedamico.com">Simone D'Amico</a></p>
 					<p class="grid_2"><a class="top" href="#">&#9650; Back to top</a></p>
 				</div>
